@@ -12,7 +12,7 @@ identified over 2016-2025?
 Migration from Central Asia to Europe is under-studied relative to other
 migration corridors, despite growing numbers in several countries. This
 project uses Eurostat's harmonized country-of-birth statistics to build an
-evidence-based picture of where Central Asian-origin populations live in
+evidence-based picture of where Central Asian-born populations live in
 Europe and how this has changed over the past decade.
 
 ## Data source
@@ -22,7 +22,7 @@ and country of birth.
 https://ec.europa.eu/eurostat/databrowser/product/view/migr_pop3ctb?lang=en
 
 **Country of birth**, not citizenship, is used to define Central
-Asian-origin population, since citizenship changes over time (e.g. through
+Asian-born population, since citizenship changes over time (e.g. through
 naturalization) and does not reliably capture people of migrant origin.
 
 ## Key findings
