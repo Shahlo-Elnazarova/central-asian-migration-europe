@@ -15,11 +15,24 @@ project uses Eurostat's harmonized country-of-birth statistics to build an
 evidence-based picture of where Central Asian-born populations live in
 Europe and how this has changed over the past decade.
 
-## Data source
+## Data source, attribution and modifications
 
-**Eurostat, `migr_pop3ctb`** — Population on 1 January by age group, sex
-and country of birth.
-https://ec.europa.eu/eurostat/databrowser/product/view/migr_pop3ctb?lang=en
+Source: Eurostat dataset `migr_pop3ctb`,
+Population on 1 January by age group, sex and country of birth,
+https://ec.europa.eu/eurostat/databrowser/product/view/migr_pop3ctb?lang=en,
+accessed 17 September 2026.
+
+This project uses a modified extract of the Eurostat dataset. The
+downloaded data were filtered to observations for the five Central Asian
+countries of birth (Kazakhstan, Kyrgyzstan, Tajikistan, Turkmenistan and
+Uzbekistan), with sex = Total and age = Total, and were aggregated across
+the five countries of birth for the population-stock analysis presented
+here.
+
+The filtering, aggregation, analysis and visualisation are the author's
+own work. The resulting tables and figures therefore represent a
+modified analytical use of the original Eurostat dataset. Eurostat 
+is not responsible for modifications or interpretations presented here. 
 
 **Country of birth**, not citizenship, is used to define Central
 Asian-born population, since citizenship changes over time (e.g. through
