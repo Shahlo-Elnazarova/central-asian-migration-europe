@@ -10,7 +10,7 @@ concentration and growth can be identified?
 Turkmenistan
 
 **Definitional choice:** Country of birth (not citizenship) is used to
-define Central Asian-origin population. A person born in Tajikistan who
+define Central Asian-born population. A person born in Tajikistan who
 later naturalizes as, say, German would be excluded from a citizenship-based
 measure but is retained under country of birth, which better captures actual
 migrant origin.
